@@ -1,0 +1,22 @@
+.counter-container {
+    width: 320px;
+
+    border: solid 1px black;
+
+    text-align: center;
+
+    padding: 8px;
+}
+
+.counter-container .counter-text {
+    color: rgb(55, 14, 168);
+}
+
+.counter-container .buttons-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.counter-container .add-to-trace-button-container button {
+    width: 100%;
+}

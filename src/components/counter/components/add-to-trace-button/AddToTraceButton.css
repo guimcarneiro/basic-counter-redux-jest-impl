@@ -1,0 +1,15 @@
+.add-to-trace-button {
+    background-color: rgb(223, 243, 135);
+    margin-top: 4px;
+    margin-bottom: 4px;
+
+    border-style: none;
+    padding: 12px;
+    border-radius: 4px;
+
+    box-shadow: 2px 0px 2px grey;
+}
+
+.add-to-trace-button:hover {
+    background-color: rgb(185, 201, 113);
+}

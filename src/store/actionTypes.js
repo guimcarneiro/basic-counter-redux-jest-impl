@@ -1,0 +1,11 @@
+const COUNTER = {
+    INCREMENT: "INCREMENT",
+    DECREMENT: "DECREMENT",
+    RESET: "RESET"
+}
+
+const TRACE = {
+    INSERT: "INSERT"
+}
+
+export { COUNTER, TRACE };

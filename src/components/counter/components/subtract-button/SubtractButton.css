@@ -1,0 +1,14 @@
+.subtract-button {
+    background-color: rgb(248, 151, 151);
+
+    border-style: none;
+
+    padding: 12px;
+    border-radius: 4px;
+
+    box-shadow: 2px 0px 2px grey;
+}
+
+.subtract-button:hover {
+    background-color: rgb(238, 110, 110);
+}

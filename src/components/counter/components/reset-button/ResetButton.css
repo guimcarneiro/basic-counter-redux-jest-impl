@@ -1,0 +1,14 @@
+.reset-button {
+    background-color: rgb(201, 201, 201);
+
+    border-style: none;
+
+    padding: 12px;
+    border-radius: 4px;
+
+    box-shadow: 2px 0px 2px grey;
+}
+
+.reset-button:hover {
+    background-color: rgb(180, 180, 180);
+}
